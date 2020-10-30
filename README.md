@@ -1,0 +1,1 @@
+This is an app which tracks the day to day patients who are being attacked with the virus,the precautions we need to take in this situation to stay with high immunity,There is also a service to call the emergency services.
