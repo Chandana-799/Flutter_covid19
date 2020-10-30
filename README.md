@@ -1,2 +1,3 @@
-This file describes about the analysis of the patient across varies countries where USA stands first in that.There is also a facility of making call to the emergency servcies and also there 
-are few precautions that are needed to be taken in this pandamic situation.In the other page it declares the information about no.of patients that are affected by covid , no.of cured patients and no. of deadths that have occured in total.
+# Flutter COVID-19 Dashboard UI | Speed Code
+
+[YouTube Video](https://youtu.be/krU-ASLb8lM)
